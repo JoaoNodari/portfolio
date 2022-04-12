@@ -1,0 +1,29 @@
+@charset "UTF-8"
+
+:root {
+
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background: linear-gradient(#2F2325, #8E5D52);
+}
+
+header {
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header img {
+    border-radius: 40px;
+}
